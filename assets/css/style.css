@@ -93,3 +93,8 @@
     margin-left: 15%;
     width: 255px;
 }
+
+.btn-info{
+    color: white !important;
+    font-weight: bolder !important;
+}
