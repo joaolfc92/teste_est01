@@ -1,0 +1,17 @@
+<!-- Título -->
+Viaje o mundo com a gente!
+
+<!-- Título 2 -->
+Nossos Destinos
+
+<!-- Alpes Suíços -->
+Sonha em visitar as belíssimas cordilheiras européias? Temos acomodações perfeitas para você e sua família desfrutarem dessa maravilha em gelo na Suíça.
+
+<!-- Tanzânia -->
+Se prefere uma viagem junto da natureza e aventura, ou quer conhecer o monte Kilimanjaro, temos a solucação para você relaxar na Tanzânia. 
+
+<!-- Venice Beach -->
+Querendo conhecer a praia mais badalada de L.A? Te ajudamos a se hospedar em Venice Beach! Acomodações próximas do famoso calçadão, mas com o conforto que precisa.
+
+<!-- Texto botão -->
+Clique para conhecer

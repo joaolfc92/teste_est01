@@ -1,0 +1,95 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+    border: none;
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    max-width: 1200px;
+    height: 800px;
+    justify-content: center;
+    
+    
+}
+
+.banner{
+    display: flex;
+    flex: 1.5;
+    background-image: url("../../banner.jpg");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    
+}
+
+.text{
+    font-size: 45px;
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    padding-left: 70px;
+
+}
+
+.viagem{
+    display: flex;
+    flex: 2;
+    flex-direction: column;
+   
+}
+
+.titulo{
+    color: black;
+    align-self: center;
+    font-size: 35px;
+    margin-top: 20px;
+    font-weight: 900;
+    font-family: 'Ubuntu';
+}
+
+.destinos{
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.card-deck{
+    display: flex;
+    height: 350px;
+}
+
+.card{
+    flex: 1;
+    margin-left: 15px;
+    border: none !important;
+}
+
+.card-img-top{
+    width: 70% !important;
+    align-self: center;
+}
+
+.card-title{
+    font-weight: bold;
+    text-align: center !important;
+}
+
+.card-text{
+    font-size: 11px;
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: center;
+}
+
+#ajuste{
+    font-family: 10px;
+}
+
+.btn{
+    cursor: pointer;
+    margin-left: 15%;
+    width: 255px;
+}
