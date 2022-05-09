@@ -17,7 +17,7 @@
 .banner{
     display: flex;
     flex: 1.5;
-    background-image: url("../../banner.jpg");
+    background-image: url("../img/banner.jpg");
     background-repeat: no-repeat, repeat;
     background-position: center;
     background-size: cover;
